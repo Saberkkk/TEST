@@ -778,7 +778,7 @@ def batch_process(
 # =========================
 if __name__ == "__main__":
     batch_process(
-        image_folder="/Users/villanelle/Documents/excel_ocr/images_test",
+        image_folder="/Users/villanelle/Documents/excel_ocr/images_test3",
         output_excel="ocr_result_deduplicated.xlsx",
         review_excel="ocr_review.xlsx",
         duplicate_excel="ocr_duplicates.xlsx",
